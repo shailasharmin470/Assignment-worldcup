@@ -1,0 +1,183 @@
+/* font part */
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@1,700&family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #FFFFFF;
+    ;
+}
+
+
+
+.container {
+    background-color: #161616;
+    width: 1321px;
+    height: 646px;
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 30px;
+    margin: 50px 139px 0 390px;
+
+}
+
+.para-font {
+    width: 506px;
+    height: 78px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.first-title {
+    font-weight: 700;
+    font-size: 70px;
+    width: 531px;
+    height: 240px;
+}
+
+.side-arrow {
+    margin-top: 14px;
+    background-color: #DD0000;
+    width: 160px;
+    height: 56px;
+    padding: 1px 25px 16px 25px;
+    border-radius: 5px;
+}
+
+.icon-arrow {
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.top-section {
+    color: #FFFFFF;
+    width: 531px;
+    height: 424px;
+    margin: 10px 24px 111px 106px;
+    padding-top: 40px;
+
+}
+
+
+.image img {
+    width: 581px;
+    height: 613px;
+    left: 801px;
+    top: 83px;
+    margin-top: 33px;
+
+}
+
+/* small box */
+.small-part-container {
+    background-color: #161616;
+    width: 312px;
+    height: 312px;
+    border-radius: 10px;
+    margin-left: 390px;
+
+
+}
+
+.box-container {
+    margin: 30px;
+    padding-top: 25px;
+}
+
+.box-3 {
+    margin: 17px 38px;
+    padding-top: 15px;
+    padding-left: 64px;
+}
+
+.box-2 {
+    margin: 17px 38px;
+    padding-top: 15px;
+    padding-left: 38px;
+
+}
+
+.box-1 {
+    margin: 17px 38px;
+    padding-top: 15px;
+
+
+}
+
+.small-box1 {
+    background-color: #DD0000;
+    color: #FFFFFF;
+    width: 252px;
+    height: 64px;
+    font-weight: 500;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+.small-box2,
+.small-box3 {
+    margin-top: 26px;
+    width: 252px;
+    height: 64px;
+    font-weight: 500;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+
+}
+
+/* otherpart */
+.transform-part-container {
+    background-color: white;
+    width: 312px;
+    height: 362px;
+    border-radius: 10px;
+    border: 1px solid rgb(197, 197, 197);
+}
+
+.smallbox {
+    width: 100px;
+    height: 32px;
+    background-color: #FFFFFF;
+    border: 1px solid #161616;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+.transform-banner img {
+    width: 312px;
+    height: 175px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.art2 {
+    width: 300px;
+    height: 54px;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.art {
+    width: 67px;
+    height: 24px;
+    font-weight: 500;
+    font-size: 16px;
+    padding-left: 14px;
+    margin-top: 6px;
+}
+
+.fa-clock {
+    color: gray;
+    margin-left: 15px;
+}
+
+#cl {
+    color: gray;
+}
+
+.rating {
+    display: flex;
+    justify-content: flex-start;
+}
