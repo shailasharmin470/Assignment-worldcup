@@ -196,3 +196,43 @@ body {
 .second-part {
     display: flex;
 }
+
+/* lastpart */
+.foot {
+    color: white;
+    width: 1600px;
+    height: 444px;
+    background-color: #161616;
+}
+
+hr {
+
+    width: 2100px;
+    height: 0px;
+    border: 1px solid rgba(219, 216, 216, 0.1);
+}
+
+.footers {
+    width: 95px;
+    height: 60px;
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+    padding-left: 950px;
+    padding-top: 100px;
+
+}
+
+.footsider {
+    font-weight: 500;
+    font-size: 16px;
+    color: rgb(177, 175, 175);
+
+}
+
+.foot .fig {
+    display: flex;
+    margin-left: 300px;
+    justify-content: space-evenly;
+
+}
