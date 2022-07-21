@@ -74,6 +74,7 @@ body {
     height: 312px;
     border-radius: 10px;
     margin-left: 390px;
+    margin-top: 100px;
 
 
 }
@@ -81,6 +82,7 @@ body {
 .box-container {
     margin: 30px;
     padding-top: 25px;
+    margin-top: 0px;
 }
 
 .box-3 {
@@ -183,7 +185,14 @@ body {
 }
 
 .big {
+    margin-top: 100px;
+    margin-left: 25px;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-row-gap: 26px;
+    grid-column-gap: 26px;
+}
+
+.second-part {
+    display: flex;
 }
