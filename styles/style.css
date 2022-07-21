@@ -181,3 +181,9 @@ body {
     display: flex;
     justify-content: flex-start;
 }
+
+.big {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-row-gap: 26px;
+}
